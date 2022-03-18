@@ -1,6 +1,6 @@
 # Aim Underground
 ```
-Counter-Strike: Global Offensive map by THE OWL
+Map for Counter-Strike: Global Offensive by THE OWL
 ```
 
 ## Screenshots
