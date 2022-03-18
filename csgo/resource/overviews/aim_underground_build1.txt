@@ -1,0 +1,31 @@
+"aim_underground_build1"
+{
+	"material" "overviews/aim_underground_build1"
+	"pos_x" "-1688.000000"
+	"pos_y" "1328.000000"
+	"scale" "1.930000"
+
+	"verticalsections"
+	{
+		"default"
+		{
+			"AltitudeMax" "10000"
+			"AltitudeMin" "5000"
+		}
+		"layer0"
+		{
+			"AltitudeMax" "5000"
+			"AltitudeMin" "344"
+		}
+		"layer1"
+		{
+			"AltitudeMax" "344"
+			"AltitudeMin" "-10000"
+		}
+		"layer2"
+		{
+			"AltitudeMax" "344"
+			"AltitudeMin" "-10000"
+		}
+	}
+}
