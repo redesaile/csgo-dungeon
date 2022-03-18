@@ -1,3 +1,2 @@
-<font color="white">Text</font>
-<font color="#fff">Text</font>
-<font color="rgb(255,0,0)">R</font><font color="rgb(0,255,0)">G</font><font color="rgb(0,0,255)">B</font>
+COMMUNITYMAPCREDITS:
+THE OWL
