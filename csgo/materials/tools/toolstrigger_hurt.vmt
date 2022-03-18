@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	$basetexture "tools/toolstrigger_hurt_color"
+
+	$translucent 1
+
+	%tooltexture "tools/toolstrigger_hurt_color"
+	%keywords "tools, trigger"
+
+	%compiletrigger 1
+}
