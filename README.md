@@ -1,7 +1,7 @@
 # Aim Underground
-```
-Map for Counter-Strike: Global Offensive by THE OWL
-```
+Map for Counter-Strike: Global Offensive
+
+**Steam Workshop:** https://steamcommunity.com/id/redesaile/
 
 ## Screenshots
 ![01](https://user-images.githubusercontent.com/90133781/158947438-ce032e42-b41d-42c5-b454-86fab2964f93.png)
