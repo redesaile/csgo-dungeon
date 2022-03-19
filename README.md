@@ -1,6 +1,4 @@
 # Aim Dungeon
-Map for Counter-Strike: Global Offensive
-
 **Weapon:** Any available for purchase
 
 **Maximum number of players:** 50 (25 per team)
