@@ -1,4 +1,4 @@
-# AIM Dungeon
+# Dungeon
 **Weapon:** Any available for purchase
 
 **Maximum number of players:** 50 (25 per team)
