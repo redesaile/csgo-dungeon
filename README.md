@@ -1,9 +1,13 @@
 # Dungeon
+**Game Mode:** Classic, Deathmatch, Custom, Training
+
 **Weapon:** Any available for purchase
+<br>**Maximum players:** 50 (25 per team)
 
-**Maximum number of players:** 50 (25 per team)
+**Steam Workshop:** https://steamcommunity.com/sharedfiles/filedetails/?id=2781906118
 
-**Steam Workshop:** Temporarily unavailable
+## Where to get resources?
+Porting Minecraft assets to cs:go is currently local, so they can only be obtained by decompiling the release version of the map via bspsrc.
 
 ## Screenshots
 ![01](https://user-images.githubusercontent.com/90133781/158947457-da8af10e-9d4d-42f2-8e94-a857fac0ba6b.png)
