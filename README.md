@@ -1,5 +1,5 @@
 # Dungeon
-**Game Mode:** Classic, Deathmatch, Custom, Training
+**Game Mode:** Fight Yard, Classic, Deathmatch, Custom, Training
 
 **Weapon:** Any available for purchase
 <br>**Maximum players:** 50 (25 per team)
