@@ -2,9 +2,4 @@
 *.ini
 
 # Directories
-graphics/
 releases/
-
-# SDK Stuff
-sdk_content/maps/*.bsp
-sdk_content/maps/*.log
