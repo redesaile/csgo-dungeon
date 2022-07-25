@@ -1,4 +1,4 @@
-# Dungeon
+# Dungeon `Fight Yard`
 **Game Mode:** Fight Yard, Classic, Deathmatch, Custom, Training
 
 **Weapon:** Any available for purchase
