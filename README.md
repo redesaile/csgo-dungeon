@@ -7,9 +7,7 @@
 **Steam Workshop:** https://steamcommunity.com/sharedfiles/filedetails/?id=2781906118
 
 ## Get resources
-> Go to [Developer Content](https://github.com/Redesaile/csgo-developer) for some editor materials.
-
-> Porting Minecraft assets to cs:go is currently local, so they can only be obtained by decompiling the release version of the map via bspsrc.
+[`Developer Content`](https://github.com/Redesaile/csgo-developer), `Minecraft Resources (currently unavailable)`
 
 ## Gallery
 ![01](https://user-images.githubusercontent.com/90133781/158947457-da8af10e-9d4d-42f2-8e94-a857fac0ba6b.png)
