@@ -4,8 +4,6 @@
 **Weapon:** Any available for purchase
 <br>**Maximum players:** 50 (25 per team)
 
-**Steam Workshop:** https://steamcommunity.com/sharedfiles/filedetails/?id=2781906118
-
 ## Get resources
 [`Developer Content`](https://github.com/Redesaile/csgo-developer), `Minecraft Resources (currently unavailable)`
 
