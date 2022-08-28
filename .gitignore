@@ -1,5 +1,9 @@
 # Windows Explorer
 *.ini
 
-# Directories
-releases/
+# Counter-Strike: Global Offensive
+*.vmx
+*.log
+*.prt
+*.bsp
+*.nav
