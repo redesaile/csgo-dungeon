@@ -2,6 +2,7 @@
 *.ini
 
 # Counter-Strike: Global Offensive
+gameinfo.txt
 *.vmx
 *.log
 *.prt
