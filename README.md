@@ -5,7 +5,7 @@
 <br>**Maximum players:** 50 (25 per team)
 
 ## Get resources
-[`Developer Content`](https://github.com/redesaile/csgo-developer), `Minecraft Resources (currently unavailable)`
+[`Developer Content`](https://github.com/redesaile/source-developer), `Minecraft Resources (currently unavailable)`
 
 > Porting Minecraft assets to cs:go is currently private, so they can only be obtained by decompiling the release version of the map via **bspsrc**.
 
